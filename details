@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Niacinamide Serum</title>
+
+<style>
+
+    body {
+        background: #f9f4ef;  /* light beige */
+        font-family: Arial, sans-serif;
+        margin: 50px;
+    }
+
+    h1 {
+        color: #4b2e19;   /* chocolate brown */
+        font-size: 60px;  
+        text-align: center;
+        margin-bottom: 20px;
+        letter-spacing: 1px;
+    }
+
+    p {
+        color: #4b2e19;  
+        font-size: 20px; 
+        text-align: left;   
+        max-width: 700px;
+        line-height: 1.5;
+    }
+
+    a {
+        color: #4b2e19;  /* chocolate brown */
+        text-decoration: none;
+        font-size: 18px;
+        display: block;
+        margin-top: 20px;
+    }
+
+    a:hover {
+        color: #8b5e3c; /* slightly lighter on hover */
+    }
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Niacinamide Serum</h1>
+
+<!-- Link to another page -->
+<a href="niacinamide-details.html">Click here for full product details →</a>
+
+<p>
+This niacinamide serum helps brighten dull skin, fade acne marks,
+and control excess oil without irritation. Niacinamide also helps support
+the skin barrier, so it’s great for acne-prone and sensitive skin types.
+</p>
+
+<p>
+It absorbs quickly without feeling sticky and layers well under makeup and
+sunscreen. With consistent use, you’ll notice smoother texture and reduced
+redness.
+</p>
+
+</body>
+</html>
